@@ -180,7 +180,7 @@ elif opcion == "Diagnóstico por Formulario":
             "key": "manchas_hojas",
             "label": "Manchas en las hojas",
             "description": "Presencia de manchas circulares o irregulares en las hojas",
-            "image": "images/Amarrillas.jpg",
+            "image": "images/484120_1_En_14_Fig16_HTML.jpg",
             "recomendacion": "Fungicidas con: Clorotalonil, Mancozeb, o Fungicidas a base de Cobre",
             "recomendacion_img": "images/clorotalonil.jpg"
         },
@@ -188,7 +188,7 @@ elif opcion == "Diagnóstico por Formulario":
             "key": "polvo_blanco",
             "label": "Polvo blanco en hojas/tallos",
             "description": "Aspecto de polvo o ceniza blanca sobre la superficie de la planta",
-            "image": "images/PolvoBlanco.jpg",
+            "image": "images/360_F_1379881865_mwP0pB77fUCIDRtxUfpIXdm7R2blLKBm.jpg",
             "recomendacion": "Fungicidas con: Azufre (polvo mojable), Azoxystrobin o Miclobutanil",
             "recomendacion_img": "images/miclobutanil.jpg"
         },
@@ -212,7 +212,7 @@ elif opcion == "Diagnóstico por Formulario":
             "key": "plagas",
             "label": "Presencia de insectos visibles",
             "description": "Observación de pequeños insectos en hojas o tallos",
-            "image": "images/Agujero1.jpg",  # Usando imagen de agujeros como referencia visual
+            "image": "images/909_0.jpeg",  # Usando imagen de agujeros como referencia visual
             "recomendacion": "Insecticidas de amplio espectro: Piretrinas/Piretroides",
             "recomendacion_img": "images/piretrina.jpg"
         },
@@ -244,7 +244,7 @@ elif opcion == "Diagnóstico por Formulario":
             "key": "muerte_planta",
             "label": "Muerte de partes de la planta",
             "description": "Partes de la planta que mueren repentinamente",
-            "image": "images/Secas.jpg",  # Usando imagen de ramas secas como referencia
+            "image": "images/images (3).jfif",  # Usando imagen de ramas secas como referencia
             "recomendacion": "Tebuconazol",
             "recomendacion_img": "images/Tebuconazol.jpg"
         },
@@ -260,7 +260,7 @@ elif opcion == "Diagnóstico por Formulario":
             "key": "olor_raro",
             "label": "Olor desagradable",
             "description": "Olores anormales provenientes de la planta o frutos",
-            "image": "images/hongos1.jpg",
+            "image": "images/images (7).jfif",
             "recomendacion": "Tebuconazol, Captan",
             "recomendacion_img": "images/Tebuconazol.jpg"
         },
@@ -276,7 +276,7 @@ elif opcion == "Diagnóstico por Formulario":
             "key": "crecimiento_lento",
             "label": "Crecimiento atrofiado",
             "description": "Desarrollo más lento de lo normal en la planta",
-            "image": "images/Amarrillas.jpg",  # Usando imagen de hojas amarillas como referencia
+            "image": "images/FIg-3.jpg",  # Usando imagen de hojas amarillas como referencia
             "recomendacion": "Fertilizante balanceado",
             "recomendacion_img": "images/fertilizantebalanceado(npk).jpg"
         },
